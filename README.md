@@ -4,7 +4,7 @@
 *Developed with Claude Opus 4.6*
 
 ---
-
+https://metehanalp07.github.io/semiconductor-simulation/semiconductor_simfinalized.html
 ## 📋 Overview
 
 This simulation visualizes the behavior of free carriers (electrons and holes) in silicon (Si) in real time. Thermal generation, drift current, diffusion current, and recombination processes are animated based on physical formulas.
